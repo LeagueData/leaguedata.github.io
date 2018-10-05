@@ -1,3 +1,0 @@
-# leaguedata.github.io
-
-TEST
